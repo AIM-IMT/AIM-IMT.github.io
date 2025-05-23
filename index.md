@@ -11,7 +11,7 @@ Recent advances in brain computer interface technology have spurred growing inte
 ## Music Samples
 
 ### Music 1
- <table style="width: 100%;">
+ <table style="width: 50%;">
   <thead>
     <tr>
       <th></th>
@@ -22,22 +22,55 @@ Recent advances in brain computer interface technology have spurred growing inte
   </thead>
   <tbody>
     <tr>
-      <th scope="row">wav</th>
+      <th scope="row">Seg1</th>
       <td><audio controls><source src="audios/21_35.wav" type="audio/wav"></audio></td>
       <td><audio controls><source src="audios/21_35_re1.wav" type="audio/wav"></audio></td>
       <td><audio controls><source src="audios/21_35_re2.wav" type="audio/wav"></audio></td>
     </tr>
     <tr>
-      <th scope="row">wav</th>
+      <th scope="row">Seg2</th>
       <td><audio controls><source src="audios/21_40.wav" type="audio/wav"></audio></td>
       <td><audio controls><source src="audios/21_40_re1.wav" type="audio/wav"></audio></td>
       <td><audio controls><source src="audios/21_40_re2.wav" type="audio/wav"></audio></td>
     </tr>
     <tr>
-      <th scope="row">wav</th>
+      <th scope="row">Seg3</th>
       <td><audio controls><source src="audios/21_45.wav" type="audio/wav"></audio></td>
       <td><audio controls><source src="audios/21_45_re1.wav" type="audio/wav"></audio></td>
       <td><audio controls><source src="audios/21_45_re2.wav" type="audio/wav"></audio></td>
     </tr>
   </tbody>
 </table>
+
+### Music 2
+ <table style="width: 50%;">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Original Music</th>
+      <th>Subject-independent</th>
+      <th>Subject-dependent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Seg1</th>
+      <td><audio controls><source src="audios/22_1.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/22_1_re1.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/22_1_re2.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <th scope="row">Seg2</th>
+      <td><audio controls><source src="audios/22_13.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/22_13_re1.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/22_13_re2.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <th scope="row">Seg3</th>
+      <td><audio controls><source src="audios/22_20.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/22_20_re1.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/22_20_re2.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
