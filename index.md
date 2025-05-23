@@ -11,9 +11,33 @@ Recent advances in brain computer interface technology have spurred growing inte
 ## Music Samples
 
 ### Music 1
-  ### Music Samples
-|         | Original Music               | Subject-independent        | Subject-dependent          |
-|---------|------------------------------|----------------------------|----------------------------|
-| **wav** | [播放](audios/21_35.wav)     | [播放](audios/21_35_re1.wav) | [播放](audios/21_35_re2.wav) |
-| **wav** | [播放](audios/21_40.wav)     | [播放](audios/21_40_re1.wav) | [播放](audios/21_40_re2.wav) |
-| **wav** | [播放](audios/21_45.wav)     | [播放](audios/21_45_re1.wav) | [播放](audios/21_45_re2.wav) |
+ <table style="width: 100%;">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Original Music</th>
+      <th>Subject-independent</th>
+      <th>Subject-dependent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">wav</th>
+      <td><audio controls><source src="audios/21_35.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/21_35_re1.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/21_35_re2.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <th scope="row">wav</th>
+      <td><audio controls><source src="audios/21_40.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/21_40_re1.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/21_40_re2.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <th scope="row">wav</th>
+      <td><audio controls><source src="audios/21_45.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/21_45_re1.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="audios/21_45_re2.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
