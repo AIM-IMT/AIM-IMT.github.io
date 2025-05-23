@@ -10,7 +10,7 @@ Recent advances in brain computer interface technology have spurred growing inte
   margin-right: auto;
   width: 80%;" />
 
-## Music Samples
+## Reconstructed Music Samples
 
 ### Music 1
  <table style="width: 100%;">
@@ -18,8 +18,8 @@ Recent advances in brain computer interface technology have spurred growing inte
     <tr>
       <th style="width: 10%; border: 1px solid #ddd;"> </th> <!-- 第1列：10%宽度 -->
       <th style="width: 20%; border: 1px solid #ddd;">Original Music</th> <!-- 第2列：30%宽度 -->
-      <th style="width: 20%; border: 1px solid #ddd;">Subject-independent</th> <!-- 第3列：30%宽度 -->
-      <th style="width: 20%; border: 1px solid #ddd;">Subject-dependent</th> <!-- 第4列：30%宽度 -->
+      <th style="width: 20%; border: 1px solid #ddd;">Reconstructed Music<br>Subject-independent</th> <!-- 第3列：30%宽度 -->
+      <th style="width: 20%; border: 1px solid #ddd;">Reconstructed Music<br>Subject-dependent</th> <!-- 第4列：30%宽度 -->
     </tr>
   </thead>
   <tbody>
