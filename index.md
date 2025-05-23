@@ -23,25 +23,25 @@ Recent advances in brain computer interface technology have spurred growing inte
         <tbody>
         <tr>
             <th scope="row">wav</th>
-            <td><audio controls="" ><source src="audio/21_35.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="audio/21_35_re1.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="audio/21_35_re2.wav" type="audio/wav"></audio></td>
+            <td><audio controls="" ><source src="audios/21_35.wav" type="audio/wav"></audio></td>
+            <td><audio controls="" ><source src="audios/21_35_re1.wav" type="audio/wav"></audio></td>
+            <td><audio controls="" ><source src="audios/21_35_re2.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
         <thead>
         <tr>
             <th scope="row">wav</th>
-            <td><audio controls="" ><source src="audio/21_40.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="audio/21_40_re1.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="audio/21_40_re2.wav" type="audio/wav"></audio></td>
+            <td><audio controls="" ><source src="audios/21_40.wav" type="audio/wav"></audio></td>
+            <td><audio controls="" ><source src="audios/21_40_re1.wav" type="audio/wav"></audio></td>
+            <td><audio controls="" ><source src="audios/21_40_re2.wav" type="audio/wav"></audio></td>
         </tr>
         </thead>
         <tbody>
         <tr>
             <th scope="row">wav</th>
-            <td><audio controls="" ><source src="audio/21_45.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="audio/21_45_re1.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="audio/21_45_re2.wav" type="audio/wav"></audio></td>
+            <td><audio controls="" ><source src="audios/21_45.wav" type="audio/wav"></audio></td>
+            <td><audio controls="" ><source src="audios/21_45_re1.wav" type="audio/wav"></audio></td>
+            <td><audio controls="" ><source src="audios/21_45_re2.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     </table>
